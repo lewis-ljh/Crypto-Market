@@ -1,0 +1,13 @@
+Name: Harry--Amount Deposited: £1000--Date: 23/04/2022 12:23:27
+Name: Joe--Amount Deposited: £500--Date: 22/04/2022 21:33:25
+Name: Joe--Amount Deposited: £500--Date: 22/04/2022 21:39:55
+Name: Joe--Amount Deposited: £500--Date: 22/04/2022 21:40:02
+Name: Joe--Amount Deposited: £500--Date: 22/04/2022 21:40:20
+Name: Joe--Amount Deposited: £500--Date: 22/04/2022 21:49:16
+Name: Lewis--Amount Deposited: 1000--Date: 22/04/2022 11:35:28
+Name: Lewis--Amount Deposited: £10000--Date: 22/04/2022 11:48:28
+Name: Lewis--Amount Deposited: £100000--Date: 22/04/2022 11:44:31
+Name: Lewis--Amount Deposited: £100000--Date: 22/04/2022 11:49:11
+Name: Lewis--Amount Deposited: £500--Date: 22/04/2022 21:35:45
+Name: Lewis--Amount Withdrawn: 100--Date: 22/04/2022 11:35:41
+Name: Lewis--Amount Withdrawn: £100--Date: 22/04/2022 12:59:22
